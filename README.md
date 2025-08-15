@@ -1,5 +1,5 @@
 # Anurag1320
-# 👋 Hi, I'm Anmol Sharma  
+# 👋 Hi, I'm Anurag Sharma  
 
 🎯 **Electrical Engineer | Power Electronics | Energy Management Systems**  
 💡 MATLAB & Simulink | Power Engineering | Renewable Energy | EV Integration | Microgrids |  
