@@ -2,24 +2,19 @@
 # 👋 Hi, I'm Anurag Sharma 
 
 ## 🚀 About Me  
-Electrical Engineer | Power Electronics | Renewable Energy | Microgrid Optimization | MATLAB/Simulink
-
-I am a results-driven electrical engineer with practical experience in power electronics testing, wireless power transfer, Solid-State Transformer | Microgrid optimization, Mathematical algorithms, and MATLAB/Simulink-based modeling.
-My work spans inductive charging systems, BESS-EV integrated energy management, state-space modeling, algorithm development, and laboratory testing of power components.
-
-I bring a combination of research depth, hands-on engineering, and automation skills in Python, enabling me to design, test, evaluate, and optimize modern power and energy systems
-
----
-I am a results-oriented electrical engineer specializing in **power engineering, laboratory testing, control theory, renewable energy systems**, and **energy management**.  
+--
+I am a results-oriented electrical engineer specializing in **power engineering, WPT and SST testing, renewable energy integration**, **IoT (Internet of Things)** and **energy management**.  
 With over a year of experience in **MATLAB/Simulink, Python automation**, and **hardware testing**, I bridge theory and hands-on implementation for **microgrids, BMS, wireless power transfer, and EV applications**.
 
 ---
 
 ## 🔧 Technical Skills
-- **Software & Tools:** MATLAB & Simulink, MATPOWER, LTspice, LaTeX  
+- **Testing Equipments:** DPG10 Power choke tester, LCR Meter, BODE 100, HIOKI Power Analyzer, BOSCH GTC 400 C, Oscilloscope, Demagnetizer, PeakTech 2695
+- **Software & Tools:** MATLAB & Simulink, Pytorch, MATPOWER, LTspice, LaTeX (OverLeaf) , MS office & Teams , Software-in-Loop (SIL)
 - **Programming:** Python, C, Java (basics)  
-- **Hardware & Protocols:** PLCs, SCADA, CAN Analyzer, OPC UA, Arduino Leonardo, Node-RED, NTP  
-- **Specialization:** Power Electronics, Wireless Power Transfer, Renewable Integration, State-Space Modeling, Mathematical Optimization
+- **Hardware & Protocols:** PLCs, CAN Analyzer, OPC UA, Arduino Leonardo, Node-RED, NTP  
+
+
 
 ---
 
@@ -28,10 +23,6 @@ With over a year of experience in **MATLAB/Simulink, Python automation**, and **
 - MILP-based MATLAB model for grid + PV + wind with optimal BESS dispatch  
 - Tariff-aware EV charging/discharging with SOC ≥ 60% and V2G support  
 
-
-### 🌀 **Separately Excited DC Motor – State-Space Analysis**
-- Full modeling, stability analysis, and observer design  
-- MATLAB-based control implementation
 
 ### 🌡️ **Temperature Control Lab (TC Lab) – Arduino Leonardo**
 - Applied model identification methods and designed PI controller in MATLAB/Simulink  
