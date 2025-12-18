@@ -53,7 +53,7 @@ I focus on **BESS–EV integrated EMS, inductive charging systems**, and **Pytho
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Sharma-blue?logo=linkedin)](https://linkedin.com/in/anurag-sharma-884a05210)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Sharma-blue?logo=linkedin)](https://linkedin.com/in/anurag-sharma-884a05210)  
 📧 Email: anurag.sh194@gmail.com  
 
 ---
