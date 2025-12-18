@@ -3,7 +3,7 @@
 
 ## 🚀 About Me  
 --
-I am a results-oriented electrical engineer specializing in **power electronics, WPT and SST testing, renewable energy integration**, **IoT (Internet of Things)** and **energy management**.  
+I am a results-oriented electrical engineer specializing in **power electronics, WPT and SST testing, renewable energy integration**, **IoT (Internet of Things)** and **microgrid energy management**.  
 With over a year of experience in **MATLAB/Simulink, Python automation**, and **hardware testing**, I bridge theory and hands-on implementation for **microgrids, BMS, wireless power transfer, and EV applications**.
 
 ---
