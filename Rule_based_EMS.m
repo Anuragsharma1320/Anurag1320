@@ -1,7 +1,7 @@
 close all; clear; clc;
 
 %% ---------- Load Data ----------
-.xlxs file
+.xlsx file from SMARD German Market real -time forecasted data
 
 %% ---------- Buy/Sell Tariffs ----------
 Price_buy  = Price;
@@ -124,4 +124,5 @@ fprintf('Peaks (kW): Import %.1f  | Export %.1f\n', peak_import, peak_export);
 fprintf('Self-sufficiency: %.1f%%  | Renewable-share (rough): %.1f%%\n', ...
         100*self_sufficiency, 100*ren_share_of_load);
 fprintf('Final SoC end: BESS %.1f%% | EV %.1f%% (target EV 80%%)\n', SOCpct_BESS(end), SOCpct_EV(end));
+
 
