@@ -1,62 +1,18 @@
-# Anurag1320
-# 👋 Hi, I'm Anurag Sharma 
+# Analysis-of-renewable-based-energy-management-in-microgrids-with-integration-of-bess-with/without-EV (V2G)
+**MATLAB-based controller implementing dynamic SOC constraints for EV and battery storage system, real-time price-driven charging/discharging, and KPI analysis for grid cost and self-sufficiency optimization in order to achieve cost optimal operation with the integration of EV with BESS.**
 
-### Electrical Engineer | Power Electronics | Renewable Energy | Microgrid Optimization | MATLAB & Python
+**Motivation**:
+Rule-based control offers a practical alternative to computationally expensive optimization methods (like MILP).
+It is simple, fast, and transparent, making it suitable for on-site controllers, EV charging hubs, and industrial microgrids where reliability and interpretability are prioritized over full optimality.
 
-I am an electrical engineer specializing in **power electronics testing, wireless power transfer (WPT), solid state transformer (SST), microgrid optimization, and MATLAB/Simulink-based modelling**.  
-My work bridges **research and practical engineering**, combining simulation, mathematical optimization, and hands-on hardware testing.
+**System Overview**
 
-I focus on **BESS–EV integrated EMS, inductive charging systems**, and **Python automation** for laboratory workflows.
+1) **Components**: PV array, Wind turbine, Biogass, Battery Energy Storage System (BESS), Electric Vehicle (EV), Grid.
 
----
-## 🚀 Technical Summary  
-- **Power Systems & EMS:** MILP, MPC, DRL, OPF, rule-based controllers  
-- **Power Electronics:** WPT systems, SST testing, magnetic material characterization  
-- **Control Systems:** PI/PID design, state-space methods, MATLAB/Simulink , SIL, HIL-ready models  
-- **Programming:** Python (automation + optimization), MATLAB, C, Java (basics)  
-- **Tools & Protocols:** CAN Analyzer, OPC UA, SCADA, PLC (Zelio Soft), Node-RED, 3D printing calibration  
-- **Software:** MATLAB & Simulink, MATPOWER, LTspice, LaTeX, PyTorch (basics)
+2) **Inputs**: PV, Wind, Load, Biogass, and Electricity Price data.
 
-## 🔬 Current Roles  
-### **Working Student – Power Electronics | Magment GmbH**  
-- Testing & validation of **inductive charging systems, SST, and magnetic material optimization** 
----
+3) **Outputs**: SOC profiles, Power flows, Grid import/export, Cost, and Renewable share KPIs.
 
-
-## 📂 Featured Projects
-### 🔋 **Optimal Energy Dispatch with BESS & EV Integration**
-- MILP-based MATLAB model for grid + PV + wind with integration of BESS for optimal dispatch 
-- Tariff-aware EV charging/discharging with SOC ≥ 60% and V2G support  
-
-
-### 🌡️ **Temperature Control Lab (TC Lab) – Arduino Leonardo**
-- Applied model identification methods and designed PI controller in MATLAB/Simulink  
-- Implemented OPC UA and Node-RED for industrial communication
-
----
-
-## 🎓 Education
-- **M.Sc. Electrical Engineering & Information Technology** – Otto von Guericke University, Magdeburg, Germany (Specialization: Power Engineering & Renewable Energy)  
-- **B.Tech. Electrical Engineering** – I.K. Gujral Punjab Technical University, India (Bronze Medalist, Top 5 for three terms)
-
-
----
-## 🎤 Conferences  
-- **IEEE PESS 2025 – TU Munich** (Poster): MILP-based optimal dispatch  
-- **SEPOC 2024 – Brazil** (Paper): Renewable microgrid EMS with BESS
-  
-## 📜 Publication
-- *Analysis of Renewable-Based Microgrid Energy Management and the Impact of Storage System*  
-  IEEE Xplore, SEPOC 2024, Brazil  
-  [DOI: 10.1109/SEPOC63090.2024.10747460](https://doi.org/10.1109/SEPOC63090.2024.10747460)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Sharma-blue?logo=linkedin)](https://linkedin.com/in/anurag-sharma-884a05210)  
-📧 Email: anurag.sh194@gmail.com  
-
----
-
-> *"Engineering is not just about solving problems – it's about making solutions work in the real world."*
-
+**Conclusion**:
+The outcome of this research demonstrates that rule-based control strategies can effectively manage renewable driven microgrids with low computational effort, high reliability, and robust integration of EVs (V2G/G2V) and storage systems. The system achieve 14% cost reduction with the integration of electric vehicle with self-sufficiency 84%.
+The approach bridges the gap between academic optimization models and industrial real-time control, offering a scalable, cost-efficient solution that supports Germany’s transition toward decentralized, flexible, and electrified energy systems. But solutions are suboptimal and requires more decision logic to achieve near optimal solution.
